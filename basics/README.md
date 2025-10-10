@@ -48,3 +48,6 @@ A scrpit that copies every file with its first letter as a capital letter to /tm
 
 ## 16-clean_emacs
 A script that deletes every file ending in "~"
+
+## 17-tree
+A script that creates "./welcome/to/school"
