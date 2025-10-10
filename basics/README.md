@@ -30,3 +30,6 @@ A script that removes the folder /tmp/my_first_directory
 
 ## 10-back
 A script that change the current working directory to the previous one
+
+## 11-lists
+A script to display in thi order: the entries of the cwd, the parent of the cwd and /boot/
