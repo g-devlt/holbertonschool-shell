@@ -42,3 +42,6 @@ A script that creates a symlink to /bin/ls in the cwd
 
 ## 14-copy_html
 A script that copies every html file from the cwd into its parent replacing only older versions of the files
+
+## 15-lets_move
+A scrpit that copies every file with its first letter as a capital letter to /tmp/u/
