@@ -1,5 +1,5 @@
 ## 0-current_working_directory
-A script to tell the current working directory.
+0;10;1cA script to tell the current working directory.
 
 ## 1-listit
 A script to list the entries in the current working directory.
@@ -18,3 +18,6 @@ A script to display the entries of the current working directory in a long forma
 
 ## 6-firstdirectory
 A script to create a folder named "my_first_directory" in /tmp/
+
+## 7-movethatfile
+A script to move a file named "betty" located in /tmp/ to /tmp/my_first_directory/betty
