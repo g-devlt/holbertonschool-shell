@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ura $(pwd) $(pwd)/../ /boot/
+ls -Ula $(pwd) $(pwd)/../ /boot/
