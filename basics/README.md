@@ -27,3 +27,6 @@ A script to delete a file named "betty" located in /tmp/my_first_directory/
 
 ## 9-firstdirdeletion
 A script that removes the folder /tmp/my_first_directory
+
+## 10-back
+A script that change the current working directory to the previous one
