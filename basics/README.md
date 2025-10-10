@@ -33,3 +33,6 @@ A script that change the current working directory to the previous one
 
 ## 11-lists
 A script to display in thi order: the entries of the cwd, the parent of the cwd and /boot/
+
+##
+A scipt that uses the file command to describe the file "/tmp/iamafile"
