@@ -15,3 +15,6 @@ A script to display the entries of the current working directory in a long forma
 
 ## 5-listfilesdigitonly
 A script to display the entries of the current working directory in a long format with hidden files with numeric user and group IDs.
+
+## 6-firstdirectory
+A script to create a folder named "my_first_directory" in /tmp/
