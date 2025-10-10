@@ -12,3 +12,6 @@ A script to display the entries of the current working directory in a long forma
 
 ## 4-listmorefiles
 A script to display the entries of the current working directory in a long format with hidden files.
+
+## 5-listfilesdigitonly
+A script to display the entries of the current working directory in a long format with hidden files with numeric user and group IDs.
