@@ -21,3 +21,6 @@ A script to create a folder named "my_first_directory" in /tmp/
 
 ## 7-movethatfile
 A script to move a file named "betty" located in /tmp/ to /tmp/my_first_directory/betty
+
+## 8-firstdelete
+A script to delete a file named "betty" located in /tmp/my_first_directory/
