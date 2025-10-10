@@ -9,3 +9,6 @@ A script to change the current working directory to the user's home.
 
 ## 3-listfiles
 A script to display the entries of the current working directory in a long format.
+
+## 4-listmorefiles
+A script to display the entries of the current working directory in a long format with hidden files.
