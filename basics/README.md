@@ -45,3 +45,6 @@ A script that copies every html file from the cwd into its parent replacing only
 
 ## 15-lets_move
 A scrpit that copies every file with its first letter as a capital letter to /tmp/u/
+
+## 16-clean_emacs
+A script that deletes every file ending in "~"
