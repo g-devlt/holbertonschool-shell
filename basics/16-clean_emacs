@@ -1,2 +1,2 @@
 #!/bin/bash
-rm $(ls -F | grep -E "\~\*$") 
+rm $(ls -F | grep -E "\~$") 
