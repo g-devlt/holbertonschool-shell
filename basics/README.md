@@ -1,5 +1,5 @@
 ## 0-current_working_directory
-0;10;1cA script to tell the current working directory.
+A script to tell the current working directory.
 
 ## 1-listit
 A script to list the entries in the current working directory.
@@ -24,3 +24,6 @@ A script to move a file named "betty" located in /tmp/ to /tmp/my_first_director
 
 ## 8-firstdelete
 A script to delete a file named "betty" located in /tmp/my_first_directory/
+
+## 9-firstdirdeletion
+A script that removes the folder /tmp/my_first_directory
