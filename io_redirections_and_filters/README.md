@@ -15,3 +15,6 @@ Prints the last 10 lines of /etc/passwd
 
 ## 5-firstlines
 Prints the first 10 lines of /etc/passwd
+
+## 6-third_line
+Prints the 3rd line of the file ./iacta
