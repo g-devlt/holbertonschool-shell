@@ -24,3 +24,6 @@ Creates a file with a weird name with "Best School\n" as its content
 
 ## 8-cwd_state
 Prints the result of 'ls -la' into ls_cwd_content
+
+## 9-duplicate_last_line
+Duplicates the last line of the file ./iacta
