@@ -18,3 +18,6 @@ Prints the first 10 lines of /etc/passwd
 
 ## 6-third_line
 Prints the 3rd line of the file ./iacta
+
+## 7-file
+Creates a file with a weird name with "Best School\n" as its content
