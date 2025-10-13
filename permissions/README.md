@@ -45,3 +45,6 @@ Changes the owner of cwd entries to vincent and group owner to staff
 
 ## 15-symbolic_link_permissions
 Changes the owner and group owner of './_hello' (a symlink) to vincent:staff
+
+## 16-if_only
+Changes the owner of './hello' from guillaume to vincent
