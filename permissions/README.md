@@ -27,3 +27,6 @@ Sets permission of hello to 007
 
 ## 9-John_Doe
 Sets permission of hello to 753
+
+## 10-mirror_permissions
+Sets the permissions of './hello' to the permission of './olleh'
