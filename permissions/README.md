@@ -42,3 +42,6 @@ Changes the owning group of './hello' to school
 
 ## 14-change_owner_and_group
 Changes the owner of cwd entries to vincent and group owner to staff
+
+## 15-symbolic_link_permissions
+Changes the owner and group owner of './_hello' (a symlink) to vincent:staff
