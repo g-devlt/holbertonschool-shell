@@ -6,3 +6,6 @@ Prints a smiley to the stdout
 
 ## 2-hellofile
 Prints the content of /etc/passwd
+
+## 3-twofiles
+Prints the content of /etc/passwd and /etc/hosts
