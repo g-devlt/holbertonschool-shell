@@ -9,3 +9,6 @@ groups wrapper
 
 ## 3-new_owner
 Makes betty the new owner of the file ./hello
+
+## 4-empty
+Creates an empty file named "hello"
