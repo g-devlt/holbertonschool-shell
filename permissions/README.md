@@ -6,3 +6,6 @@ whoami wrapper
 
 ## 2-groups
 groups wrapper
+
+## 3-new_owner
+Makes betty the new owner of the file ./hello
