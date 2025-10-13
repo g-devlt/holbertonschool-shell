@@ -33,3 +33,6 @@ Sets the permissions of './hello' to the permission of './olleh'
 
 ## 11-directories_permissions
 Adds execution privileges to all subdirectories of the cwd
+
+## 12-directory_permissions
+Creates a directory 'my_dir' with permissions 751
