@@ -15,3 +15,6 @@ Creates an empty file named "hello"
 
 ## 5-execute
 Adds execution privileges to ./hello
+
+## 6-multiple_permissions
+Adds ug+x and o+r to 'hello' file
