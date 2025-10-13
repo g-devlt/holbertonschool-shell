@@ -23,4 +23,7 @@ Adds ug+x and o+r to 'hello' file
 Adds a+x to 'hello' file
 
 ## 8-James_Bond
-Set permission of hello to 007
+Sets permission of hello to 007
+
+## 9-John_Doe
+Sets permission of hello to 753
