@@ -21,3 +21,6 @@ Prints the 3rd line of the file ./iacta
 
 ## 7-file
 Creates a file with a weird name with "Best School\n" as its content
+
+## 8-cwd_state
+Prints the result of 'ls -la' into ls_cwd_content
