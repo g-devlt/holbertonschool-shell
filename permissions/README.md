@@ -39,3 +39,6 @@ Creates a directory 'my_dir' with permissions 751
 
 ## 13-change_group
 Changes the owning group of './hello' to school
+
+## 14-change_owner_and_group
+Changes the owner of cwd entries to vincent and group owner to staff
