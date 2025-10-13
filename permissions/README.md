@@ -12,3 +12,6 @@ Makes betty the new owner of the file ./hello
 
 ## 4-empty
 Creates an empty file named "hello"
+
+## 5-execute
+Adds execution privileges to ./hello
