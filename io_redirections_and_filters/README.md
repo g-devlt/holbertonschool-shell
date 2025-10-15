@@ -29,4 +29,7 @@ Prints the result of 'ls -la' into ls_cwd_content
 Duplicates the last line of the file ./iacta
 
 ## 10-no_more_js
-Deletes every .js files recursively from cwd 
+Deletes every .js files recursively from cwd
+
+## 11-directories
+Prints the count of directories and subdirectories recursively
