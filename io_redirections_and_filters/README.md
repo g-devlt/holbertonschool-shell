@@ -33,3 +33,6 @@ Deletes every .js files recursively from cwd
 
 ## 11-directories
 Prints the count of directories and subdirectories recursively
+
+## 12-newest_files
+Prints the 10 newest files in current directory
