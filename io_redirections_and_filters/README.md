@@ -46,3 +46,5 @@ Prints every line of /etc/passwd containing the word root
 ## 15-countthatword
 Prints the number of line with the word bin in /etc/passwd
 
+## 16-whatsnext
+Prints every line containing root with 3 lines of trailing context
