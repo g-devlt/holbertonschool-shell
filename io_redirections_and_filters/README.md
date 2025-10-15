@@ -47,4 +47,7 @@ Prints every line of /etc/passwd containing the word root
 Prints the number of line with the word bin in /etc/passwd
 
 ## 16-whatsnext
-Prints every line containing root with 3 lines of trailing context
+Prints every line of /etc/passwd containing root with 3 lines of trailing context
+
+## 17-hidethisword
+Prints every line of /etc/passwd not containg "bin"
