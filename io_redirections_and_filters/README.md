@@ -41,4 +41,8 @@ Prints the 10 newest files in current directory
 Sorts an input and only prints unique data
 
 ## 14-findthatword
-Wrapper for cat '/etc/passwd | grep "root"'
+Prints every line of /etc/passwd containing the word root
+
+## 15-countthatword
+Prints the number of line with the word bin in /etc/passwd
+
