@@ -57,3 +57,6 @@ Prints every line of /etc/ssh/sshd_config starting with a letter
 
 ## 19-AZ
 Changes 'A' to 'Z' and 'c' to 'e' from input
+
+## 20-hiago
+Deletes every occurence of 'C' or 'c' from input
