@@ -63,3 +63,6 @@ Deletes every occurence of 'C' or 'c' from input
 
 ## 21-reverse
 Wrapper for rev
+
+##
+Shows every user and their home stored in /etc/passwd
