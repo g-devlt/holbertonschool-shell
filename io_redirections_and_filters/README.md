@@ -60,3 +60,6 @@ Changes 'A' to 'Z' and 'c' to 'e' from input
 
 ## 20-hiago
 Deletes every occurence of 'C' or 'c' from input
+
+## 21-reverse
+Wrapper for rev
