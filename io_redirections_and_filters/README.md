@@ -54,3 +54,6 @@ Prints every line of /etc/passwd not containg "bin"
 
 ## 18-letteronly
 Prints every line of /etc/ssh/sshd_config starting with a letter
+
+## 19-AZ
+Changes 'A' to 'Z' and 'c' to 'e' from input
