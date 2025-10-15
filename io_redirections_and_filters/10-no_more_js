@@ -1,2 +1,2 @@
 #!/bin/bash
-find **/*.md *.md -type f -delete 2>/dev/null
+find . -name "*.bak" -type f -delete
