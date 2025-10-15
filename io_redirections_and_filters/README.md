@@ -51,3 +51,6 @@ Prints every line of /etc/passwd containing root with 3 lines of trailing contex
 
 ## 17-hidethisword
 Prints every line of /etc/passwd not containg "bin"
+
+## 18-letteronly
+Prints every line of /etc/ssh/sshd_config starting with a letter
