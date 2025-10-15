@@ -1,2 +1,2 @@
 #!/bin/bash
-rm $(find **/*.js *.js -type f 2>/dev/null)
+find **/*.md *.md -type f -delete 2>/dev/null
