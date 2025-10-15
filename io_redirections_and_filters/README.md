@@ -36,3 +36,6 @@ Prints the count of directories and subdirectories recursively
 
 ## 12-newest_files
 Prints the 10 newest files in current directory
+
+## 13-unique
+Sorts an input and only prints unique data
