@@ -39,3 +39,6 @@ Prints the 10 newest files in current directory
 
 ## 13-unique
 Sorts an input and only prints unique data
+
+## 14-findthatword
+Wrapper for cat '/etc/passwd | grep "root"'
