@@ -24,3 +24,6 @@ Creates an environment variable BEST with value "School"
 
 ## 8-true_knowledge
 Adds 128 to TRUEKNOWLEDGE variable and prints it
+
+9-divide_and_rule
+Prints the result of $POWER divided by $DIVIDE
