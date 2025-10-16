@@ -12,3 +12,6 @@ Counts the number of non-empty entries in the PATH variable
 
 ## 4-global_variables
 Prints every global variables
+
+## 5-local_variables
+Prints local variables, env variables and functions
