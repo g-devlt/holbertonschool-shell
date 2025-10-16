@@ -33,3 +33,6 @@ Prints the result of $BREATH to the power of $LOVE
 
 ## 11-binary_to_decimal
 Prints $BINARY to decimal base
+
+## 12-combinations
+Prints every combination of two letters a through z without printing 'oo'
