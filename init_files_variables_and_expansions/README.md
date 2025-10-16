@@ -39,3 +39,6 @@ Prints every combination of two letters a through z without printing 'oo'
 
 ## 13-print_float
 Prints the var $NUM with two decimal places
+
+## 14-decimal_to_hexadecimal
+Prints the hexadecimal value of $NUM
