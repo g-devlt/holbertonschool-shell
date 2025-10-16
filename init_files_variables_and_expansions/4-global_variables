@@ -1,0 +1,2 @@
+#!/bin/bash
+printenv | sort -t = -k 1

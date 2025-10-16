@@ -9,3 +9,6 @@ Adds "/action" to the path
 
 ## 3-paths
 Counts the number of non-empty entries in the PATH variable
+
+## 4-global_variables
+Prints every global variables
