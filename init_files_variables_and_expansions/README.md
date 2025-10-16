@@ -15,3 +15,6 @@ Prints every global variables
 
 ## 5-local_variables
 Prints local variables, env variables and functions
+
+## 6-create_local_variable
+Creates a local variable BEST with value "School"
