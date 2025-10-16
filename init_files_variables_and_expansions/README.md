@@ -18,3 +18,6 @@ Prints local variables, env variables and functions
 
 ## 6-create_local_variable
 Creates a local variable BEST with value "School"
+
+## 7-create_global_variable
+Creates an environment variable BEST with value "School"
