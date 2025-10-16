@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "a::b:c" | tr : \\n | grep -v '^$'| sort -b | uniq | wc -l
