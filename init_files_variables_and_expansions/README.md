@@ -36,3 +36,6 @@ Prints $BINARY to decimal base
 
 ## 12-combinations
 Prints every combination of two letters a through z without printing 'oo'
+
+## 13-print_float
+Prints the var $NUM with two decimal places
