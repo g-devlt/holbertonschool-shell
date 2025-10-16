@@ -30,3 +30,6 @@ Prints the result of $POWER divided by $DIVIDE
 
 ## 10-love_exponent_breath
 Prints the result of $BREATH to the power of $LOVE
+
+## 11-binary_to_decimal
+Prints $BINARY to decimal base
